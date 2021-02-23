@@ -10,7 +10,7 @@
 
  ## 만들어볼 hook(Publishing to NPM)
   - [o] useIitle
-  - [0] useInput
+  - [o] useInput
   - [o] useTabs
   - [o] useClick
   - [ ] usePageLeave
