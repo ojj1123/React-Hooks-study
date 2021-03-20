@@ -25,5 +25,5 @@
   - [ ] useAxios
 
 ## Reference
- - [React Hooks Docu](https://ko.reactjs.org/docs/hooks-intro.html)
+ - [React Hooks Doc](https://ko.reactjs.org/docs/hooks-intro.html)
  - [nomadcoder](https://nomadcoders.co/)
