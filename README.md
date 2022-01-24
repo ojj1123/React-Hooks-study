@@ -9,10 +9,10 @@
  ...
 
  ## 만들어볼 hook(Publishing to NPM)
-  - [o] useIitle
-  - [o] useInput
-  - [o] useTabs
-  - [o] useClick
+  - [x] useIitle
+  - [x] useInput
+  - [x] useTabs
+  - [x] useClick
   - [ ] usePageLeave
   - [ ] useFadeIn
   - [ ] useUllscreen
